@@ -66,8 +66,11 @@ RegisterNumber: 25013589
 RTL LOGIC FOR 4 Bit Ripple Counter
 [RTLimage.pdf](https://github.com/user-attachments/files/24171850/RTLimage.pdf)
 
-TIMING DIGRAMS FOR 4 Bit Ripple Counter
-[wave1.pdf](https://github.com/user-attachments/files/24171860/wave1.pdf)
+wave DIGRAMS FOR 4 Bit Ripple Counter
+
+[Wave.pdf](https://github.com/user-attachments/files/24172256/Wave.pdf)
+
+
 
 RESULTS
 
